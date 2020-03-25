@@ -553,11 +553,12 @@ h3 {
   height: 100%;
   object-position: center;
   object-fit: cover;
-  opacity: .2; }
+  opacity: .6; }
 
 .carrusel_content {
   position: relative;
-  padding: 0.5rem 1rem; }
+  padding: 0.5rem 1rem;
+  background: rgba(0, 0, 0, 0.4); }
 
 .carrusel-title {
   width: 100%;
